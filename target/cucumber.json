@@ -1,0 +1,31 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "LeanPay login",
+        "description": "",
+        "id": "leanpay;leanpay-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "Customer navigates to LeanPay homepage",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "LeanPay",
+    "description": "",
+    "id": "leanpay",
+    "keyword": "Feature",
+    "uri": "LeanPay.feature"
+  }
+]
